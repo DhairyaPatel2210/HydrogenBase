@@ -1,0 +1,5 @@
+-> Run the command 
+
+test;
+
+We have prepared one command test; which will eventually test all the Queries required. So follow the instructions given inside the readme.txt to run the main file and try to run test command.
